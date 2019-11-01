@@ -7,7 +7,7 @@
 <h1>KORVPALL</h1>
 <p><b><em>Clippers alistas kaotuseta püsinud Spursi tänu Kawhi Leonardi heale mängule.</em></b></p>
 <p>Leonardi hea mäng aitas Clippersil alistada San Antonio Spursi.
-Hooaja esimese kaotuse pidi vastu võtma San Antonio Spurs 31.oktoobril, kes võõrsil Los Angeles Clippersile 97:103 kaotas.
+Hooaja esimese kaotuse pidi vastu võtma San Antonio Spurs 31.oktoobril, kes võõrsil Los Angeles Clippersile 97:103 kaotas.<p/>
 <img src="https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/tamishssnux80kwdlapv/kawhi-leonard" width="500" height="300" alt="Kawhi Leonard" />
 <h2><b><font color="red">Kawhi Leonardi mängustatistika:</font><b></h2>
  <table style="width:63%" border=1>
